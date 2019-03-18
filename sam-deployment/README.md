@@ -26,3 +26,7 @@ Your service name, used in the code repository, Lambda function, and pipeline na
 ```
 aws cloudformation deploy --template-file template.yml --stack-name <stack_name> --capabilities CAPABILITY_IAM --parameter-overrides ServiceName=<service_name>
 ```
+
+## References
+* https://gist.github.com/SAPessi/246b278b6b7502b157a9fbaf3981d103
+* https://qiita.com/is_ryo/items/0382d183f514e0d06f4d
