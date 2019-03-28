@@ -1,4 +1,4 @@
-# sam-deployment
+# sam-deployment-github
 > Template for SAM deployment with CodePipeline.
 * Source: GitHub
 * Build: CodeBuild
