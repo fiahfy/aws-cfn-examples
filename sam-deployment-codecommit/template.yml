@@ -73,7 +73,6 @@ Resources:
                   - 'cloudformation:DeleteChangeSet'
                   - 'cloudformation:DescribeChangeSet'
                   - 'cloudformation:SetStackPolicy'
-                  - 'cloudformation:SetStackPolicy'
                   - 'cloudformation:ValidateTemplate'
                   - 'codebuild:StartBuild'
                   - 'codebuild:BatchGetBuilds'
