@@ -1,5 +1,5 @@
-# aws-cfn-samples
-> AWS CloudFormation Samples.
+# aws-cfn-examples
+> AWS CloudFormation Examples.
 
 ## Requirements
 * aws-cli  
